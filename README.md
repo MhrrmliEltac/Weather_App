@@ -8,19 +8,17 @@ A simple and clean weather application built using Flutter. This app fetches rea
 🚀 Features
 Get weather data based on user's geolocation 🌍
 
-Shows temperature, weather icon, and conditions 🌡️
-Fetches data from JSON API
-Clean and responsive UI
-Uses asynchronous data fetching with setState
+* Shows temperature, weather icon, and conditions 🌡️
+* Fetches data from JSON API
+* Clean and responsive UI
+* Uses asynchronous data fetching with setState
 
 🛠️ Technologies Used
 Flutter & Dart
 
-geolocator and geocoding packages for location services
-
-dio for handling HTTP requests
-
-Stateful widgets with initState and setState for state management
+* geolocator and geocoding packages for location services
+* dio for handling HTTP requests
+* Stateful widgets with initState and setState for state management
 
 📦 Getting Started
 
